@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ui_gerencianet/XDiPhone12ProMax1.dart';
+import 'package:ui_gerencianet/home.dart';
 
 void main() {
   runApp(MyApp());
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: XDiPhone12ProMax1(),
+      home: Home(),
     );
   }
 }

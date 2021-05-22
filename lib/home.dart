@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:adobe_xd/pinned.dart';
 
-class XDiPhone12ProMax1 extends StatelessWidget {
-  XDiPhone12ProMax1({
+class Home extends StatelessWidget {
+  Home({
     Key? key,
   }) : super(key: key);
   @override
